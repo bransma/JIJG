@@ -1,0 +1,13 @@
+jcpimin.c
+jccolor.c
+jclossy.c
+jdhuff.c
+jdlhuff.c
+jdmerge.c
+jdphuff.c
+jdpred.c
+jdshuff.c
+jdhuff.h (Cornell workaround(bother with it?))
+jlossls.h
+jmorecfg.h (bits in sample)
+jpeglib.h (constants for workaround options)
