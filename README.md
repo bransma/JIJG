@@ -1,6 +1,6 @@
 Java port of the decompression library from independent JPEG group, libijg, encompassing 8-, 10-, 12-, 16-bit lossy and lossless codecs.
 
-This source is a derivative work of the Independent JPEG Group (IJG) decompression librray, the c-source was made available under the terms contained ijg_license.txt. The license permits works of this nature, if the ijg license is distributed.
+This source is a derivative work of the Independent JPEG Group (IJG) decompression librray, the c-source was made available under the terms contained in the file ijg_license.txt
 
 Due to the nature of C and Java, the following changes were made when porting the code:
 * pointers were replaced with indexing
